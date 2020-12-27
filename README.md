@@ -5,7 +5,7 @@ How To Install :
 
 just copy paste this command to your shell and hit enter  : 
 
-$ sudo git clone https://github.com/etc5had0w/cyberstuff.git && cd cyberstuff/ && sudo chmod +x cyberstuff.sh && sudo ./cyberstuff.sh
+sudo git clone https://github.com/etc5had0w/cyberstuff.git && cd cyberstuff/ && sudo chmod +x cyberstuff.sh && sudo ./cyberstuff.sh
 
 
 Right now it will install following things to your system : 
