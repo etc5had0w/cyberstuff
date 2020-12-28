@@ -23,8 +23,6 @@ git clone https://github.com/carlospolop/privilege-escalation-awesome-scripts-su
 
 git clone https://github.com/pentestmonkey/unix-privesc-check.git;
 
-git clone http://github.com/sleventyeleven/linuxprivchecker.git;
-
 git clone https://github.com/rebootuser/LinEnum.git;
 
 git clone https://github.com/sleventyeleven/linuxprivchecker.git;
